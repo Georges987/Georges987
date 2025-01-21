@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 ## Bienvenue sur mon Profil GitHub !
 
+<!--
 ![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=Georges987&show_icons=true&theme=radical)
-
+-->
 ### Qui suis-je ?
 
 Je suis Georges AYENI, passionné de développement informatique. Je suis Etudiant à IFRI - Bénin mais également Freelance avec un intérêt particulier pour le développement web et mobile. 
