@@ -216,6 +216,7 @@ Je suis Georges AYENI, passionné de développement informatique. Je suis Etudia
    - **LinkedIn : https://www.linkedin.com/in/georges-ayeni-542a461bb/**
    - **My Discord id : Alexis7 / Blasterx7**
    - **DevCase : https://www.devcase.me/Georges987**
+   - **IBM** : https://www.credly.com/badges/2da11ca1-cd4a-4e98-a260-6fbda1e8e67f/public_url
 <!--
 ### Statistiques GitHub :
 
