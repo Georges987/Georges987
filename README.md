@@ -209,8 +209,8 @@ Je suis Georges AYENI, passionné de développement informatique. Je suis Etudia
 
 ### Comment me contacter ?
 
-- 💼 Consultez mon travail sur https://georges.vercel.app.
-- 📫 Contactez-moi par email sur ayenigeorgepierre@mail.com.
+- 💼 Consultez mon travail sur https://georges-ayeni.com.
+- 📫 Contactez-moi par email sur contact@georges-ayeni.com.
 - 🔗 Connectons-nous sur:
    - **Facebook : https://web.facebook.com/georges.ayeni.7/**
    - **LinkedIn : https://www.linkedin.com/in/georges-ayeni-542a461bb/**
