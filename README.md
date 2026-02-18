@@ -1,7 +1,7 @@
 # Hi, I'm Digui Georges AYENI 👋
 
 [![Website](https://img.shields.io/badge/Portfolio-georges--ayeni.com-blue)](https://georges-ayeni.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GeorgesAYENI-blue?logo=linkedin)](https://www.linkedin.com/in/georges-ayeni-542a461bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GeorgesAYENI-blue?logo=linkedin)](https://www.linkedin.com/in/digui-ayeni/)
 [![Email](https://img.shields.io/badge/Email-contact@georges--ayeni.com-red)](mailto:contact@georges-ayeni.com)
 
 ---
@@ -53,7 +53,7 @@ I love **learning new technologies**, sharing knowledge, and collaborating on im
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
+ et stats GitHub intégrés, qui montre tes contributions, technologies et projets avec des badges attractifs,
 ## 📂 Featured Projects
 
 - **[Wayi](https://wayi.example.com)** – Innovative insurance platform for the Benin market.  
