@@ -1,47 +1,77 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Digui Georges AYENI 👋
 
-## About Me
-
-Hi, I'm **Digui Georges AYENI**, a passionate software developer and tech entrepreneur based in Benin.  
-I am currently a student at **IFRI Benin** and also work as a **freelance developer**, with a strong focus on **web and mobile development**. I love building innovative solutions and continuously learning new technologies.
-
----
-
-## What I Do
-
-- 👨‍💻 I work on **full-stack web and mobile projects**, building scalable, high-quality software.  
-- 🌱 I am constantly learning and exploring new technologies, including:  
-  - Programming: C, C++, Ruby, Bash, JavaScript, Python, PHP, Java, Kotlin, Dart  
-  - Frameworks & Libraries: Vue.js, React, Angular, Laravel, Ruby on Rails, Flutter, Django, Nest.js, Next.js, Nuxt.js  
-  - Design & UI: Figma, Material UI, Tailwind CSS, ShadCn UI, Chakra UI, Canva  
-  - Databases & APIs: PostgreSQL, MySQL, MongoDB, Redis, Firebase, REST, WebSocket  
-  - DevOps & Tools: Git, Docker, CI/CD, Jenkins, Nginx, Linux, Ubuntu, Windows  
-
-- 💬 I enjoy collaborating on exciting projects, sharing knowledge, and mentoring others in web and mobile development.
+[![Website](https://img.shields.io/badge/Portfolio-georges--ayeni.com-blue)](https://georges-ayeni.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GeorgesAYENI-blue?logo=linkedin)](https://www.linkedin.com/in/georges-ayeni-542a461bb/)
+[![Email](https://img.shields.io/badge/Email-contact@georges--ayeni.com-red)](mailto:contact@georges-ayeni.com)
 
 ---
 
-## Key Strengths
+## 🚀 About Me
 
-- 🔭 Expert in **Vue.js, Laravel, Flutter, QT, and CSS**  
-- 🚀 Always seeking challenging projects to improve my skills and contribute to impactful solutions  
-- 📚 Passionate about **learning and sharing knowledge** with the tech community  
+I am a **Software Developer & Tech Entrepreneur** based in Benin.  
+Currently a student at **IFRI Benin** and a freelance developer, I specialize in **web and mobile development**, creating innovative solutions for startups and enterprises.  
 
----
-
-## Connect with Me
-
-- 🌐 **Portfolio / Website**: [georges-ayeni.com](https://georges-ayeni.com)  
-- 📫 **Email**: contact@georges-ayeni.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/georges-ayeni-542a461bb](https://www.linkedin.com/in/digui-ayeni/)  
-- 🔗 **Facebook**: [facebook.com/georges.ayeni.7](https://web.facebook.com/georges.ayeni.7/)  
-- 🎮 **Discord**: Alexis7 / Blasterx7  
-- 🔗 **DevCase**: [devcase.me/Georges987](https://www.devcase.me/Georges987)  
-- 🏅 **IBM Badge**: [credly.com/badges/2da11ca1-cd4a-4e98-a260-6fbda1e8e67f/public_url](https://www.credly.com/badges/2da11ca1-cd4a-4e98-a260-6fbda1e8e67f/public_url)
+I love **learning new technologies**, sharing knowledge, and collaborating on impactful projects.
 
 ---
 
-## Let's Collaborate!
+## 💻 My Skills
 
-I'm open to collaborations with **companies, startups, and tech enthusiasts**.  
-Feel free to explore my projects, reach out, or discuss innovative ideas. Let's build something amazing together! 🚀
+### Programming & Languages
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Web & Mobile Frameworks
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+
+### UI & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/ShadCn_UI-8B5CF6?style=for-the-badge&logo=shadcn&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+- **[Wayi](https://wayi.example.com)** – Innovative insurance platform for the Benin market.  
+- **[Spark](https://spark.example.com)** – Web and mobile solution for financial services.  
+- **[Portfolio Website](https://georges-ayeni.com)** – My personal portfolio showcasing my projects and skills.  
+
+*(More projects are available in my repositories.)*
+
+---
+
+## 📈 GitHub Stats
+
+![Georges's GitHub stats](https://github-readme-stats.vercel.app/api?username=Georges987&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Georges987&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Collaborate
+
+I’m open to **freelance projects, collaborations, and mentorship opportunities**.  
+Feel free to reach out to discuss **web/mobile development, fintech solutions, or innovative tech ideas**.  
