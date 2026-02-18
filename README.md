@@ -56,8 +56,8 @@ I love **learning new technologies**, sharing knowledge, and collaborating on im
  et stats GitHub intégrés, qui montre tes contributions, technologies et projets avec des badges attractifs,
 ## 📂 Featured Projects
 
-- **[Wayi](https://wayi.example.com)** – Innovative insurance platform for the Benin market.  
-- **[Spark](https://spark.example.com)** – Web and mobile solution for financial services.  
+- **[Wayi](https://wayi.bj)** – Innovative insurance platform for the Benin market.  
+- **[Spark](https://spark-web.coinbranche.com)** – Web and mobile solution for financial services.  
 - **[Portfolio Website](https://georges-ayeni.com)** – My personal portfolio showcasing my projects and skills.  
 
 *(More projects are available in my repositories.)*
